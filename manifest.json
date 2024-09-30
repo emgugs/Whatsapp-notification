@@ -1,0 +1,7 @@
+{
+  "name": "Custom API Notification",
+  "version": "1.0",
+  "description": "Send custom notifications to an API endpoint",
+  "dependencies": ["homeassistant"],
+  "requirements": []
+}
